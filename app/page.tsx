@@ -63,7 +63,7 @@ export default function Home() {
         <div className="card-container">
           <div className="card">
             <img className="avatar" src="/hojo.png" alt="avatar" />
-            <h3 className="card-name">Name</h3>
+            <h3 className="card-name">Go Hojo</h3>
             <p>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos
               pariatur ullam aliquid inventore nam, eligendi unde, obcaecati hic
@@ -73,7 +73,7 @@ export default function Home() {
           </div>
           <div className="card">
             <img className="avatar" src="/takumi.png" alt="avatar" />
-            <h3 className="card-name">Name</h3>
+            <h3 className="card-name">Fujiwara Takumi</h3>
             <p>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos
               pariatur ullam aliquid inventore nam, eligendi unde, obcaecati hic
@@ -83,7 +83,7 @@ export default function Home() {
           </div>
           <div className="card">
             <img className="avatar" src="/takahashi.png" alt="avatar" />
-            <h3 className="card-name">Name</h3>
+            <h3 className="card-name">Takahashi Keisuke</h3>
             <p>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos
               pariatur ullam aliquid inventore nam, eligendi unde, obcaecati hic
@@ -93,7 +93,7 @@ export default function Home() {
           </div>
           <div className="card">
             <img className="avatar" src="/takahashi1.png" alt="avatar" />
-            <h3 className="card-name">Name</h3>
+            <h3 className="card-name">Takahashi Ryosuke</h3>
             <p>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos
               pariatur ullam aliquid inventore nam, eligendi unde, obcaecati hic
